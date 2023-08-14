@@ -1,0 +1,31 @@
+.main-nav {
+    display: flex;
+}
+    
+.push {
+    margin-left: auto;
+}
+.content{
+    text-align: center;
+}
+.content h1{
+    font-size: 160px;
+    color: red;
+    font-weight: 600;
+}
+.content a{
+    text-decoration: none;
+    display: inline-block;
+    color: red;
+    font-size: 24px;
+    border:2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 50;
+}
+h1{
+    text-shadow: 5px 5px black;
+}
+
+
+ 
